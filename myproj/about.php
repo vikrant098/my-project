@@ -91,7 +91,7 @@ body {margin: 0;}
   <div class="container" style="margin-top: 100px;opacity: 0.8;">
  <div class="left2" ></div>
  <div class="right">
- <h2>Online Examination Project<br><br>Name:Rahul Kumar<br><br>USN-1JB15IS084<br><br>Give FeedBack:</h2>
+ <h2>Online Examination Project<br><br>Name:Vikrant kumar Gupta<br><br>USN-1JB15cs183<br><br>Give FeedBack:</h2>
 
  <a href="feedback.php" style="margin-left: 40px;"><button class="button button3">FeedBack</button></a>
 </div>
