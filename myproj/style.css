@@ -1,0 +1,178 @@
+body
+{
+	margin: 0;
+	padding: 0;
+
+	background: url(firstpageim.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.title
+{
+	text-align: center;
+	padding: 30px 0 10px;
+}
+
+.title h1
+{
+	margin: 0;
+	padding: 0;
+	color :#262626;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+.title h2
+{
+
+	margin: 0;
+	padding: 0;
+	color :#fff;
+	text-transform: uppercase;
+	font-size: 36px;
+}
+
+
+.container
+{
+	opacity: 0.9;
+	border-radius: 5px;
+	width: 50%;
+	height: 400px;
+	background: #fff;
+	margin: 0 auto;
+	border:2px solid #fff;
+	box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+
+.container .left
+{
+	float: left;
+	width: 50%;
+	height: 400px;
+	background: url(loginback.jpg);
+	background-size: cover;
+	box-sizing: border-box;
+}
+
+.container .right
+{
+	float: right;
+	width: 50%;
+	height: 400px;
+	box-sizing: border-box;
+}
+.container .left2
+{
+		float: left;
+	width: 50%;
+	height: 400px;
+	background: url(user.png);
+	background-size: auto;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+	
+}
+
+
+
+.formBox
+{
+	width: 100%;
+	padding: 80px 40px;
+	box-sizing: border-box;
+	height: 400px;
+	background: #fff; 
+}
+
+.formBox p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #a6af13;
+}
+.formBox input
+{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+
+.formBox input[type="text"],
+.formBox input[type="password"]
+{
+	border: none;
+	border-bottom: 2px solid #a6af13;
+	outline: none;
+	height: 40px;
+}
+
+.formBox input[type="text"]:focus,
+.formBox input[type="password"]:focus
+{
+	border-bottom: 2px solid #262626;
+}
+
+.formBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color:#fff;
+	background: #262626;
+	cursor: pointer;
+}
+
+.formBox input[type="submit"]:hover
+{
+	background: #a6af13;
+}
+
+.formBox input[type="button"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color:#fff;
+	background: #262626;
+	cursor: pointer;
+}
+
+.formBox input[type="button"]:hover
+{
+	background: #a6af13;
+}
+
+.formBox a
+{
+	color: #262626;
+	font-size: 12px;
+	font-weight: bold;
+
+}
+.containernew 
+{
+
+	opacity: 1;
+	border-radius: 5px;
+	width: 60%;
+	
+	background: #BCC6CC;
+	margin: 0 auto;
+	border:2px solid #fff;
+	box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+
+.container2
+{
+	opacity: 0.9;
+	border-radius: 5px;
+	width: 50%;
+	height: 400px;
+	background: #fff;
+	margin: 0 auto;
+	border:2px solid #fff;
+	box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
